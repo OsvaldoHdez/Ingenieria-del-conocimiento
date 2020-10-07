@@ -1,3 +1,4 @@
+print("------Imprimir números pares del 2 al 48------")
 for i in range(2, 49):
     if i % 2 == 0:
         print(i)
