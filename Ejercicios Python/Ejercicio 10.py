@@ -2,7 +2,10 @@ print("--------Programa para determinar si una serie de números dados es par o 
 números = []
 for i in range(25):
     núm = int(input(f"Escriba el número {i+1}: "))
-    números.append(núm)
+    if núm > 0:
+        números.append(núm)
+    else:
+        print("Sólo números positivos")
 
 print("------------------Resultado------------------")
 for i in range(25):
