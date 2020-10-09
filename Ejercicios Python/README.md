@@ -1,4 +1,5 @@
 ### <html><H3 align="center"> Ejercicios python 1 al 10 </H3></html>
+---
 #### Ejercicio 1
 Imprimir los enteros del 9 al 43
 ```Python
