@@ -1,5 +1,4 @@
-### <html><H3 align="center"> Ejercicios python 1 al 10 </H3></html>
----
+### <html><H3 align="center"> Ejercicios en python del 1 al 10 </H3></html>
 #### Ejercicio 1
 Imprimir los enteros del 9 al 43
 ```Python
@@ -7,7 +6,6 @@ print("------Imprimir números enteros del 9 al 44------")
 for i in range(9, 44):
     print(i)
 ```
----
 #### Ejercicio 2
 Imprimir los enteros impares del 7 al 51.
 ```Python
